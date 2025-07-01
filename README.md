@@ -1,4 +1,5 @@
-# 📦 SuperStore Returns Dashboard
+![superstore-return-1600x533](https://github.com/user-attachments/assets/6b2bab11-0e3b-4d63-a1e3-63a4dc89a419)
+
 
 ## Overview
 This project presents an interactive **Tableau dashboard** that analyzes return patterns at SuperStore, with the goal of uncovering trends, pinpointing problem categories, and informing executive decisions on logistics and sales strategies.
