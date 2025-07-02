@@ -63,7 +63,7 @@ The dataset includes SuperStore sales and returns information:
 
 ---
 
-## 📌 Recommendation
+## 📌Strategic Recommendation
 
 Based on the return trends uncovered in this analysis, the following actions are recommended:
 
